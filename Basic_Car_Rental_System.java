@@ -1,5 +1,3 @@
-package mini_projects;
-
 import java.util.Scanner;
 import java.lang.Math;
 
